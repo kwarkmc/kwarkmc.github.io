@@ -3,10 +3,10 @@ repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-phone: 07845248563
+name: 곽민창 (Kwark Min Chang)
+title: 한양대학교 ERICA 전자공학부
+email: kwarkmc@naver.com
+phone: 010-4138-3152
 website: sproogen.github.io/modern-resume-theme
 
 # Social links
