@@ -21,7 +21,7 @@ darkmode: false
 # Social links
 #twitter_username: n_jjjang
 github_username:  kwarkmc
-stackoverflow_username: "kwarkmc"
+stackoverflow_username: "16815279"
 #dribbble_username: jekyll
 facebook_username: kwarkmc
 #flickr_username: jekyll
@@ -52,13 +52,16 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  나이 : 23 세 (1999년 생)
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  최종 학력 : 4년제 대학교 재학중 (한양대학교 ERICA 캠퍼스 전자공학부)
+
+  사는 곳 : 경기도 동탄 1 신도시
+
+
+  병역사항 : 대한민국 공군 병장 만기전역 (2020.02.10 ~ 2021.11.13)
+
+  사용 언어 : <mark>C</mark> <mark>C++</mark> <mark>Python</mark>, <mark>TensorFlow2.0</mark>
 
 content:
   - title: Projects # Title for the section
