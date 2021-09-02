@@ -16,7 +16,7 @@
 
       {%- include about.html -%}
 
-      {%- if site.version == 2 -%}
+<!--      {%- if site.version == 2 -%}
         {% for section in site.content %}
           <div class="container {{ section.layout }}-container">
             <h3>{{ section.title }}</h3>
@@ -26,6 +26,28 @@
       {% else %}
         {%- include v1/default.html -%}
       {%- endif -%}
+        -->
+
+        {%- include site.data.projects.size > 0 -%}
+          {%- include projects.html -%}
+        {%- endif -%}
+
+        {%- include site.data.experience.size > 0 -%}
+          {%- include experience.html -%}
+        {%- endif -%}
+
+        {%- include site.data.eduation.size > 0 -%}
+          {%- include education.html -%}
+        {%- endif -%}
+
+        {%- include site.data.introduce.size > 0 -%}
+          {%- include introduce.html -%}
+        {%- endif -%}
+
+        {%- include site.more_content -%}
+          {%- include more.html -%}
+        {%- endif -%}
+
     </div>
   </main>
 

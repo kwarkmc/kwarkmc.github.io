@@ -1,14 +1,14 @@
-- name: Institution 1
-  dates: 2016 - 2019
-  qualification: Degree
+- name: 한양대학교 ERICA 캠퍼스
+  dates: 2018 ~ 
+  qualification: 전자공학부
   quote: >
-    Short institution or course description
+    경기도 소재 4년제 종합대학
   description: >
-    Description of qualification
+    2학년 2학기 (2019) 종강 후 군 휴학
 
 - layout: left
-  name: Institution 2
-  dates: 2013 - 2016
-  qualification: A levels
+  name: 동탄고등학교
+  dates: 2015 ~ 2017
+  qualification: 이과
   description: >
-    Description of qualification
+    경기도 동탄신도시 소재 고등학교
