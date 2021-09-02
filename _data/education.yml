@@ -1,0 +1,31 @@
+- layout: left
+  name: 안산대학교
+  dates: 2018.03 ~ 2020.02
+  qualification: 인터넷정보과
+  quote: >
+    경기도 소재 전문대학교
+  description: | # this will include new lines to allow paragraphs
+    - 졸업학점 : 3.76 / 4.5
+    - 1학년 2학기 : 과수석 장학금 수여
+    - 2학년 1학기 : 우수1등급 장학금 수여
+    - 2학년 2학기 : 조기취업
+
+- layout: left
+  name: 청강문화산업대학교
+  dates: 2015.03 ~ 2015.06
+  qualification: 모바일보안과
+  quote: >
+    경기도 소재 전문대학교
+  description: | # this will include new lines to allow paragraphs
+    - 1학기 후 중퇴
+
+- layout: left
+  name: 제물포 고등학교
+  dates: 2009.03 ~ 2012.02
+  qualification: 이과
+  quote: >
+    인천 소재 고등학교
+  description: | # this will include new lines to allow paragraphs
+
+
+    

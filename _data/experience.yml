@@ -1,0 +1,11 @@
+- layout: left
+  company: 앤트라인소프트
+  job_title: 사원
+  dates: 2019.10.07 ~ 재직중
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    - 현대에서 사용하는 Log Management System 개발 참여 
+    - <mark>Kubernetes</mark> <mark>Elk stack</mark> 경험
+
+  
