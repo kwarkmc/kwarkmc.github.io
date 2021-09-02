@@ -1,8 +1,0 @@
-- layout: top-middle
-  name: LMS v2 프로젝트
-  quote: >
-    현대 오토에버에서 사용하는 Log Management System 개발
-  description: | # this will include new lines to allow paragraphs
-    - 사용기술 : <mark>Node</mark> <mark>Vue</mark> <mark>Elk Stack</mark> <mark>Kubernetes</mark> <mark>Git</mark>
-    - 대시보드 화면에 출력되는 차트를 오픈소스를 사용해 제작
-
