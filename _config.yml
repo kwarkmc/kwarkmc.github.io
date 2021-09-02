@@ -19,19 +19,19 @@ website: https://github.com/kwarkmc
 darkmode: false
 
 # Social links
-twitter_username: n_jjjang
+#twitter_username: n_jjjang
 github_username:  kwarkmc
 stackoverflow_username: "kwarkmc"
-dribbble_username: jekyll
+#dribbble_username: jekyll
 facebook_username: kwarkmc
-flickr_username: jekyll
+#flickr_username: jekyll
 instagram_username: min__dow
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: kwarkmc99
-googleplus_username: kwarkmc99
-orcid_username: 0000-0000-0000-0000
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: kwarkmc99
+#googleplus_username: kwarkmc99
+#orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
